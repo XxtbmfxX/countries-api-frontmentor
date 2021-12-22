@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/XxtbmfxX/countries-api-frontmentor)
+- Solution URL: [uwu](https://github.com/XxtbmfxX/countries-api-frontmentor)
 - Live Site URL: [owo](https://vibrant-edison-cc96cf.netlify.app)
 
 ## My process
@@ -47,7 +47,11 @@ After struggle with filters at the end i could adapt a solution for my problem
 - Semantic HTML5 markup
 - Flexbox
 - CSS Grid
-- Mobile-first workflow -[React](https://reactjs.org/) - JS library -[Taildwind css](https://tailwindcss.com/) - A utility-first CSS framework -[Headless UI](https://headlessui.dev/) - A PROJECT BY Tailwind Labs -[Heroicons](https://heroicons.com/) - by the makers of Tailwind CSS.
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Taildwind css](https://tailwindcss.com/) - A utility-first CSS framework
+- [Headless UI](https://headlessui.dev/) - A PROJECT BY Tailwind Labs
+- [Heroicons](https://heroicons.com/) - by the makers of Tailwind CSS.
 
 ### What I learned
 
@@ -65,8 +69,8 @@ After struggle with filters at the end i could adapt a solution for my problem
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/XxtbmfxX)
-- Twitter - [@yourusername](https://www.twitter.com/Xx_Toro_xX)
+- Frontend Mentor - [@XxtbmfxX](https://www.frontendmentor.io/profile/XxtbmfxX)
+- Twitter - [@Xx_Toro_xX](https://www.twitter.com/Xx_Toro_xX)
 
 ## Acknowledgments
 
